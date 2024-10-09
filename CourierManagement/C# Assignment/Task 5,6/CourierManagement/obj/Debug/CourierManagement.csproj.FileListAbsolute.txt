@@ -1,7 +1,0 @@
-D:\C#\C# Assignment\Task 5\CourierManagement\bin\Debug\CourierManagement.exe.config
-D:\C#\C# Assignment\Task 5\CourierManagement\bin\Debug\CourierManagement.exe
-D:\C#\C# Assignment\Task 5\CourierManagement\bin\Debug\CourierManagement.pdb
-D:\C#\C# Assignment\Task 5\CourierManagement\obj\Debug\CourierManagement.csproj.AssemblyReference.cache
-D:\C#\C# Assignment\Task 5\CourierManagement\obj\Debug\CourierManagement.csproj.CoreCompileInputs.cache
-D:\C#\C# Assignment\Task 5\CourierManagement\obj\Debug\CourierManagement.exe
-D:\C#\C# Assignment\Task 5\CourierManagement\obj\Debug\CourierManagement.pdb
